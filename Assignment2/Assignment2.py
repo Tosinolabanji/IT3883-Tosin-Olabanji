@@ -1,5 +1,5 @@
 # Program Name: Assignment2.py
-# Course: IT3883 / Section (put your section)
+# Course: IT3883
 # Student Name: Tosin Olabanji
 # Assignment Number: Assignment 2
 # Due Date: 2/18/2026
